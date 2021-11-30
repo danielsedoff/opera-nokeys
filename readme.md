@@ -9,7 +9,7 @@ Use this tool if you need to connect a remote desktop in a browser.
 First check if your apt lock file is set. If so, Opera will not get installed. To do so:
 
 ```
-$ sudo apt isntall nothing-at-all
+$ sudo apt install nothing-at-all
 ```
 
 If apt says that there is no such package, it's good and you are ready to go.
