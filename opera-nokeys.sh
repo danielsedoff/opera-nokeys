@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # use a certain version of opera
-FILE=./opera-stable_81.0.4196.60_amd64.deb
-DIR=https://download5.operacdn.com/pub/opera/desktop/81.0.4196.60/linux
+FILE=./opera-stable_82.0.4227.23_amd64.deb
+DIR=https://download5.operacdn.com/pub/opera/desktop/82.0.4227.23/linux
 
 # if a download was interrupted, start it over
 if [ -f "$FILE" ]; then
